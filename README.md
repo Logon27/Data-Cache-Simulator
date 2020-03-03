@@ -4,9 +4,9 @@ This program simulates the behavior of a data cache. The program reads a trace o
 
 ## Example Trace.config file
 
-Number of sets: 8
-Set size: 1
-Line size: 8
+Number of sets: 8  
+Set size: 1  
+Line size: 8  
 
 ## Trace of References
 
