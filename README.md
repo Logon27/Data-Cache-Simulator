@@ -1,6 +1,6 @@
 #  Data Cache Simulator
 
-This program simulates the behavior of a data cache. The program reads a trace of references from standard input and produces statistics about the trace to standar output.
+This program simulates the behavior of a data cache. The program reads a trace of references from standard input and produces statistics about the trace to standard output.
 
 ## Example Trace.config file
 
